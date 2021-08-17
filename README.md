@@ -1,4 +1,9 @@
 # PyTorch Image Models
+
+## 参考
+https://www.slideshare.net/TakujiTahara/20210817-lt-introduction-to-pytorch-image-models-as-backbone-tawara-249996209
+
+## 原文
 - [Sponsors](#sponsors)
 - [What's New](#whats-new)
 - [Introduction](#introduction)
