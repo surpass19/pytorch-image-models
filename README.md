@@ -1,6 +1,7 @@
 # PyTorch Image Models
 
 ## 参考
+backbone としての timm 入門 <br>
 https://www.slideshare.net/TakujiTahara/20210817-lt-introduction-to-pytorch-image-models-as-backbone-tawara-249996209
 
 ## 原文
